@@ -5,7 +5,7 @@ export default function App() {
     <main>
       <h1>Pro-Gamer Profile</h1>
       <DeveloperCard
-        fullName="Nguyen Van A"
+        fullName="Nguyen Tat Tan Tai"
         role="Frontend Engineer • UIT S3T"
         avatarUrl="https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=240"
         metrics={{ commits: 1024, vdomNodes: 0, a11yScore: 100 }}
